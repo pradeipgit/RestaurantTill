@@ -1,0 +1,9 @@
+C:\Users\prade\source\repos\RestaurantTill\RestaurantTill\obj\Debug\netcoreapp3.1\RestaurantTill.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\RestaurantTill\RestaurantTill\obj\Debug\netcoreapp3.1\RestaurantTill.AssemblyInfo.cs
+C:\Users\prade\source\repos\RestaurantTill\RestaurantTill\obj\Debug\netcoreapp3.1\RestaurantTill.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\RestaurantTill\RestaurantTill\bin\Debug\netcoreapp3.1\RestaurantTill.deps.json
+C:\Users\prade\source\repos\RestaurantTill\RestaurantTill\bin\Debug\netcoreapp3.1\RestaurantTill.dll
+C:\Users\prade\source\repos\RestaurantTill\RestaurantTill\bin\Debug\netcoreapp3.1\RestaurantTill.pdb
+C:\Users\prade\source\repos\RestaurantTill\RestaurantTill\obj\Debug\netcoreapp3.1\RestaurantTill.dll
+C:\Users\prade\source\repos\RestaurantTill\RestaurantTill\obj\Debug\netcoreapp3.1\RestaurantTill.pdb
+C:\Users\prade\source\repos\RestaurantTill\RestaurantTill\obj\Debug\netcoreapp3.1\RestaurantTill.csprojAssemblyReference.cache
